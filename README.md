@@ -3,5 +3,9 @@
 <p align="center">
   <img width="500" height="500" src="Standard/standard_tree.jpg"> 
 </p>
-<p align="center"> ![](Standard/thicker_tree.jpg))
-<p align="center"> ![](Four%20Season/4season_tree.jpg)
+<p align="center">
+  <img width="500" height="500" src="Standard/thicker_tree.jpg"> 
+</p>
+<p align="center">
+  <img width="500" height="500" src="Four%20Season/4season_tree.jpg"> 
+</p>
